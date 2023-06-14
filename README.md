@@ -1,4 +1,5 @@
 # C4MTS-Task2-Baseline
+GET STARTED WITH THE GOOGLE COLAB LINK HERE : https://colab.research.google.com/github/vibhugupta1/C4MTS-Task2-Baseline/blob/main/C4MTS_TASK2.ipynb
 This is the baseline code for C4MTS Task2.
 => How to use the code or google colab notebook.
    Step1 : There is an option on top when you open the code, "OPEN IN COLAB". This opens the file in the google colab.
